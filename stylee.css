@@ -1,0 +1,19 @@
+<style>
+body{ align:center;
+     // border: 10px solid blue;
+      background:#e6f7ff;
+      color:black;
+      font-family:"Times New Roman";
+      font-size:20px;
+      align:center;
+      height:700px;
+    }
+table{  border:20px solid black;}
+table,th,td{ border:5px solid black;}
+ th,td{ text-align:center;
+        width:100px;
+        height:50px;
+      }
+
+
+</style>
